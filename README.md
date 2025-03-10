@@ -1,0 +1,2 @@
+# python_e-ticaret-
+BU REPOSİTORY Techcareer.net ile PYTHON-WİZARDS-CODE-ALCHEMY-WORKSHOP ÖDEV İÇİN OLUŞTURULMUŞTUR..
